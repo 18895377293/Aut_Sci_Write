@@ -1,0 +1,11 @@
+{
+  "name": "sci-extract",
+  "version": "1.0.0",
+  "description": "Scientific paper insight and figure extraction",
+  "author": "Antigravity",
+  "dependencies": {
+    "python": ">=3.10",
+    "pip": ["pymupdf", "pdfplumber", "numpy"]
+  },
+  "tags": ["scientific", "pdf", "extraction", "figures", "insights"]
+}

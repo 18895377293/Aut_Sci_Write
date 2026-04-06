@@ -1,0 +1,10 @@
+{
+  "name": "sci-search",
+  "version": "1.0.0",
+  "description": "Academic paper retrieval and journal metrics enrichment",
+  "author": "Antigravity",
+  "capabilities": ["search", "formatting"],
+  "scripts": {
+    "search": "python D:/Skills/Aut_Sci_Write/scripts/sci_search.py"
+  }
+}

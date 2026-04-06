@@ -1,0 +1,7 @@
+fitz
+pdfplumber
+numpy
+opencv-python
+zotero-py
+requests
+beautifulsoup4
