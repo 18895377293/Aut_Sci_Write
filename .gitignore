@@ -1,3 +1,6 @@
 __pycache__/
-*.pdf
-.omc/
+*.pyc
+library.json
+.env
+.DS_Store
+.vscode/

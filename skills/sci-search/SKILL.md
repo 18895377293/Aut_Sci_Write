@@ -19,4 +19,4 @@ Requires environment variables if searching via Zotero (optional):
 - `ZOTERO_USER_ID`
 - `ZOTERO_API_KEY`
 
-Main script: `D:/Skills/Aut_Sci_Write/scripts/sci_search.py`
+Main script: `../../scripts/sci_search.py`

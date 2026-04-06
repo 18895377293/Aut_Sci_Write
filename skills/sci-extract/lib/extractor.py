@@ -1,5 +1,4 @@
 from __future__ import annotations
-import os
 import re
 import json
 import logging
@@ -9,7 +8,6 @@ from typing import Dict, List, Any, Optional, Tuple
 
 import fitz  # PyMuPDF
 import pdfplumber
-import numpy as np
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
@@ -260,7 +258,7 @@ if __name__ == "__main__":
     pdf_path = sys.argv[1]
     output_dir = sys.argv[2] if len(sys.argv) > 2 else None
 
-    with SciExtract(pdf_path) as ext:
+    with SciExtractor(pdf_path) as ext:
         print("--- Insights ---")
         insights = ext.extract_insights()
         print(json.dumps(insights, indent=2, ensure_ascii=False))
