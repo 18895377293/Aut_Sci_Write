@@ -1,3 +1,16 @@
+---
+name: sci-search
+description: Academic paper search and metrics analysis. Searches arXiv and PubMed simultaneously with journal impact factor data. Triggers on requests to search for papers or find literature.
+triggers:
+  - 搜索文献
+  - 最新论文
+  - arXiv
+  - PubMed
+  - 文献检索
+  - find papers
+  - search papers
+---
+
 # Sci Search Skill
 
 Academic paper search and metrics analysis tool for scientific research workflows.

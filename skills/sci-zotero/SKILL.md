@@ -1,3 +1,15 @@
+---
+name: sci-zotero
+description: Interact with your Zotero library to sync references, add citations by DOI/ISBN/PMID, and manage PDFs. Triggers on Zotero-related requests.
+triggers:
+  - Zotero
+  - zotero
+  - 同步文献
+  - 文献管理
+  - add citation
+  - sync zotero
+---
+
 # sci-zotero - Zotero Library Integration
 
 Interact with your Zotero library to sync references, add citations by DOI/ISBN/PMID, and manage PDFs.

@@ -1,0 +1,38 @@
+{
+  "name": "shuozhao-academic-skills",
+  "version": "1.0.0",
+  "description": "Academic research enhancement skills for Claude Code: PPT generation, data extraction, literature search, figure processing, and Zotero integration",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "claude",
+    "skills",
+    "academic",
+    "research",
+    "ppt",
+    "literature",
+    "data-extraction",
+    "zotero"
+  ],
+  "author": "shuozhao",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShZhao27208/Aut_Sci_Write"
+  },
+  "bugs": {
+    "url": "https://github.com/ShZhao27208/Aut_Sci_Write/issues"
+  },
+  "homepage": "https://github.com/ShZhao27208/Aut_Sci_Write#readme",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "skills/",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
