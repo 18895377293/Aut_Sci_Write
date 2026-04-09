@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/avatar.svg" width="120" height="120" alt="瞾 — Shuo Zhao pixel avatar"/>
+<img src="docs/logo.jpg" width="160" height="160" alt="瞾 — Shuo Zhao" style="border-radius:50%;"/>
 
 # Aut_Sci_Write
 
