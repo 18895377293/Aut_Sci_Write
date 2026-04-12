@@ -4,3 +4,4 @@ library.json
 .env
 .DS_Store
 .vscode/
+.npmrc
